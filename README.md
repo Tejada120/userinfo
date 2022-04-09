@@ -1,5 +1,5 @@
-# Commands for DISCORD BOT
-Complex codes for bots in discord
+# UserInfo Bot Command
+Complex userinfo code for bots in discord
 
 SETUP:
 
